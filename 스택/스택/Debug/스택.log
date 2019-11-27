@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\스택\스택\소스.c(57): warning C4715: 'pop': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\taewoo\source\repos\스택\스택\소스.c(65): warning C4715: 'peek': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  스택.vcxproj -> C:\Users\taewoo\source\repos\스택\Debug\스택.exe

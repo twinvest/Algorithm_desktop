@@ -1,0 +1,83 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\운태\운태\소스.c(54): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(54): warning C4024: 'insert': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(64): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(64): warning C4024: 'order_turn': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(68): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(68): warning C4024: 'publish_turn': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(74): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(74): warning C4024: 'borrow_turn': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(82): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(82): warning C4024: 'search': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(87): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(87): warning C4024: 'borrow': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(90): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(90): warning C4024: 'turnIn': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(93): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(93): warning C4024: 'save': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(96): warning C4047: '함수': 'int *'의 간접 참조 수준이 'int **'과(와) 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(96): warning C4024: 'load': 형식 및 실제 매개 변수 2의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(47): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(60): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(86): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(157): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(160): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(163): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(166): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(169): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(203): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\taewoo\source\repos\운태\운태\소스.c(203): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(248): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\taewoo\source\repos\운태\운태\소스.c(248): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(265): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(272): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\taewoo\source\repos\운태\운태\소스.c(272): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(286): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(294): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\taewoo\source\repos\운태\운태\소스.c(294): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(315): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(322): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\taewoo\source\repos\운태\운태\소스.c(322): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(335): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(343): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\taewoo\source\repos\운태\운태\소스.c(343): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(361): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(368): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\taewoo\source\repos\운태\운태\소스.c(368): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(380): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(388): warning C4474: 'printf' : 서식 문자열에 전달된 인수가 너무 많습니다.
+  c:\users\taewoo\source\repos\운태\운태\소스.c(388): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 4개 필요하지만 5개가 제공되었습니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(420): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(426): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(431): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(433): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\taewoo\source\repos\운태\운태\소스.c(457): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(462): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(486): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(509): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(537): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(551): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(207): note: 'fopen' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\운태\운태\소스.c(556): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1195): note: 'fscanf' 선언을 참조하십시오.
+  운태.vcxproj -> C:\Users\taewoo\source\repos\운태\Debug\운태.exe

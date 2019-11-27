@@ -1,0 +1,16 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\project31\project31\소스.c(10): warning C4013: 'scnaf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\project31\project31\소스.c(17): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\taewoo\source\repos\project31\project31\소스.c(17): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\project31\project31\소스.c(20): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\taewoo\source\repos\project31\project31\소스.c(20): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\project31\project31\소스.c(23): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\taewoo\source\repos\project31\project31\소스.c(23): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\project31\project31\소스.c(26): warning C4047: '함수': 'const char *const '의 간접 참조 수준이 'int'과(와) 다릅니다.
+c:\users\taewoo\source\repos\project31\project31\소스.c(26): warning C4024: 'printf': 형식 및 실제 매개 변수 1의 형식이 서로 다릅니다.
+c:\users\taewoo\source\repos\project31\project31\소스.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\project31\project31\소스.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+소스.obj : error LNK2019: _scnaf 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\taewoo\source\repos\Project31\Debug\Project31.exe : fatal error LNK1120: 1개의 확인할 수 없는 외부 참조입니다.

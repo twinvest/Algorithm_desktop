@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\project9\project9\소스.c(26): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\project9\project9\소스.c(28): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+LINK : fatal error LNK1168: C:\Users\taewoo\source\repos\Project9\Debug\Project9.exe을(를) 쓰기용으로 열 수 없습니다.

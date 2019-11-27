@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\project36\project36\소스.c(21): warning C4477: 'printf' : 서식 문자열 '%08x'에 'unsigned int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'unsigned char *'입니다.
+c:\users\taewoo\source\repos\project36\project36\소스.c(21): warning C4313: 'printf': 서식 문자열의 '%x'이(가) 인수 1('unsigned char *' 형식)과(와) 충돌합니다.
+c:\users\taewoo\source\repos\project36\project36\소스.c(60): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+  Project36.vcxproj -> C:\Users\taewoo\source\repos\Project36\x64\Debug\Project36.exe

@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\자료구조\자료구조\소스.c(254): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+c:\users\taewoo\source\repos\자료구조\자료구조\소스.c(339): warning C4101: 'ch' :참조되지 않은 지역 변수입니다.
+  자료구조.vcxproj -> C:\Users\taewoo\source\repos\자료구조\Debug\자료구조.exe

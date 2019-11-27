@@ -1,0 +1,3 @@
+﻿  소스.cpp
+c:\users\taewoo\source\repos\알고리즘 과제 4-2 구글링\알고리즘 과제 4-2 구글링\소스.cpp(29): warning C4244: '초기화 중': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  알고리즘 과제 4-2 구글링.vcxproj -> C:\Users\taewoo\source\repos\알고리즘 과제 4-2 구글링\Debug\알고리즘 과제 4-2 구글링.exe

@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\project41\project41\소스.c(89): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\taewoo\source\repos\project41\project41\소스.c(131): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\taewoo\source\repos\project41\project41\소스.c(152): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  Project41.vcxproj -> C:\Users\taewoo\source\repos\Project41\Debug\Project41.exe

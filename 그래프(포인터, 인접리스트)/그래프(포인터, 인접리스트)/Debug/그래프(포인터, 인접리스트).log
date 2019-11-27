@@ -1,0 +1,25 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(11): error C2061: 구문 오류: 식별자 'GraphNode'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(12): error C2059: 구문 오류: '}'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(17): error C2061: 구문 오류: 식별자 'GraphNode'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(18): error C2059: 구문 오류: '}'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(20): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(20): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(20): error C2059: 구문 오류: ')'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(21): error C2054: 'g' 다음에 '('가 필요합니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(30): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(30): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(30): error C2059: 구문 오류: '형식'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(30): error C2059: 구문 오류: ')'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(40): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(40): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(40): error C2059: 구문 오류: '형식'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(40): error C2059: 구문 오류: ')'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(57): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(57): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(57): error C2059: 구문 오류: '형식'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(57): error C2059: 구문 오류: ')'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(71): error C2143: 구문 오류: ')'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(71): error C2143: 구문 오류: '{'이(가) '*' 앞에 없습니다.
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(71): error C2059: 구문 오류: ')'
+c:\users\taewoo\source\repos\그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트)\소스.c(72): error C2054: 'g' 다음에 '('가 필요합니다.

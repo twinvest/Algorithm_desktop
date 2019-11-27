@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\c과제1번\c과제1번\소스.c(11): warning C4047: '!=': 'int'의 간접 참조 수준이 'void *'과(와) 다릅니다.
+c:\users\taewoo\source\repos\c과제1번\c과제1번\소스.c(7): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  C과제1번.vcxproj -> C:\Users\taewoo\source\repos\C과제1번\Debug\C과제1번.exe

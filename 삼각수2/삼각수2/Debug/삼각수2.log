@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\삼각수2\삼각수2\소스.c(8): warning C4477: 'scanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\taewoo\source\repos\삼각수2\삼각수2\소스.c(8): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\삼각수2\삼각수2\소스.c(8): warning C4700: 초기화되지 않은 'number' 지역 변수를 사용했습니다.
+  삼각수2.vcxproj -> C:\Users\taewoo\source\repos\삼각수2\Debug\삼각수2.exe

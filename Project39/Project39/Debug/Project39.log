@@ -1,0 +1,12 @@
+﻿  소스.cpp
+c:\users\taewoo\source\repos\project39\project39\소스.cpp(29): error C2059: 구문 오류: ';'
+c:\users\taewoo\source\repos\project39\project39\소스.cpp(33): error C2059: 구문 오류: 'if'
+c:\users\taewoo\source\repos\project39\project39\소스.cpp(39): error C4430: 형식 지정자가 없습니다. int로 가정합니다. 참고: C++에서는 기본 int를 지원하지 않습니다.
+c:\users\taewoo\source\repos\project39\project39\소스.cpp(39): error C2556: 'int glutPostRedisplay(void)': 오버로드된 함수가 'void glutPostRedisplay(void)'과(와) 반환 형식만 다릅니다.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\gl\glut.h(406): note: 'glutPostRedisplay' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\project39\project39\소스.cpp(39): error C2373: 'glutPostRedisplay': 재정의. 형식 한정자가 다릅니다.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\gl\glut.h(406): note: 'glutPostRedisplay' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\project39\project39\소스.cpp(40): error C2059: 구문 오류: '}'
+c:\users\taewoo\source\repos\project39\project39\소스.cpp(40): error C2143: 구문 오류: ';'이(가) '}' 앞에 없습니다.
+c:\users\taewoo\source\repos\project39\project39\소스.cpp(42): error C2143: 구문 오류: ';'이(가) '{' 앞에 없습니다.
+c:\users\taewoo\source\repos\project39\project39\소스.cpp(42): error C2447: '{': 함수 헤더가 없습니다. 이전 스타일의 형식 목록입니까?

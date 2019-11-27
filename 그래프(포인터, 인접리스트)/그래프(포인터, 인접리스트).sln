@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "그래프(포인터, 인접리스트)", "그래프(포인터, 인접리스트)\그래프(포인터, 인접리스트).vcxproj", "{ABB8F95E-DF41-4762-902E-C70B91087CB9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABB8F95E-DF41-4762-902E-C70B91087CB9}.Debug|x64.ActiveCfg = Debug|x64
+		{ABB8F95E-DF41-4762-902E-C70B91087CB9}.Debug|x64.Build.0 = Debug|x64
+		{ABB8F95E-DF41-4762-902E-C70B91087CB9}.Debug|x86.ActiveCfg = Debug|Win32
+		{ABB8F95E-DF41-4762-902E-C70B91087CB9}.Debug|x86.Build.0 = Debug|Win32
+		{ABB8F95E-DF41-4762-902E-C70B91087CB9}.Release|x64.ActiveCfg = Release|x64
+		{ABB8F95E-DF41-4762-902E-C70B91087CB9}.Release|x64.Build.0 = Release|x64
+		{ABB8F95E-DF41-4762-902E-C70B91087CB9}.Release|x86.ActiveCfg = Release|Win32
+		{ABB8F95E-DF41-4762-902E-C70B91087CB9}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27DBA1CA-971A-4A6A-A597-64FD394D2820}
+	EndGlobalSection
+EndGlobal

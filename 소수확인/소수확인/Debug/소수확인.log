@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\소수확인\소수확인\소스.c(4): warning C4305: '초기화 중': 'double'에서 'float'(으)로 잘립니다.
+  소수확인.vcxproj -> C:\Users\taewoo\source\repos\소수확인\Debug\소수확인.exe

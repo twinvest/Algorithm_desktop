@@ -1,0 +1,7 @@
+﻿  소스.cpp
+c:\users\taewoo\source\repos\알고리즘과제3-2\알고리즘과제3-2\소스.cpp(5): warning C4068: 알 수 없는 pragma입니다.
+c:\users\taewoo\source\repos\알고리즘과제3-2\알고리즘과제3-2\소스.cpp(14): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\알고리즘과제3-2\알고리즘과제3-2\소스.cpp(27): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  알고리즘과제3-2.vcxproj -> C:\Users\taewoo\source\repos\알고리즘과제3-2\Debug\알고리즘과제3-2.exe

@@ -1,0 +1,2 @@
+﻿  소스.cpp
+c:\users\taewoo\source\repos\graphics_final\graphics_final\소스.cpp(9): fatal error C1083: 포함 파일을 열 수 없습니다. 'SOIL.h': No such file or directory

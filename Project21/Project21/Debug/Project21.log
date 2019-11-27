@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\project21\project21\소스.c(10): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+  Project21.vcxproj -> C:\Users\taewoo\source\repos\Project21\Debug\Project21.exe

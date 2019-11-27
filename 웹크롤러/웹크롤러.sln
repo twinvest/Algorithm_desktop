@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "웹크롤러", "웹크롤러\웹크롤러.vcxproj", "{A39ABF2C-242D-44E3-B1E0-32D2E9D22916}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39ABF2C-242D-44E3-B1E0-32D2E9D22916}.Debug|x64.ActiveCfg = Debug|x64
+		{A39ABF2C-242D-44E3-B1E0-32D2E9D22916}.Debug|x64.Build.0 = Debug|x64
+		{A39ABF2C-242D-44E3-B1E0-32D2E9D22916}.Debug|x86.ActiveCfg = Debug|Win32
+		{A39ABF2C-242D-44E3-B1E0-32D2E9D22916}.Debug|x86.Build.0 = Debug|Win32
+		{A39ABF2C-242D-44E3-B1E0-32D2E9D22916}.Release|x64.ActiveCfg = Release|x64
+		{A39ABF2C-242D-44E3-B1E0-32D2E9D22916}.Release|x64.Build.0 = Release|x64
+		{A39ABF2C-242D-44E3-B1E0-32D2E9D22916}.Release|x86.ActiveCfg = Release|Win32
+		{A39ABF2C-242D-44E3-B1E0-32D2E9D22916}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B587683-6CB9-4ACE-A298-A2DB4C5E60C7}
+	EndGlobalSection
+EndGlobal

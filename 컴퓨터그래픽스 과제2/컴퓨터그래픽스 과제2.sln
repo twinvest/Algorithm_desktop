@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "컴퓨터그래픽스 과제2", "컴퓨터그래픽스 과제2\컴퓨터그래픽스 과제2.vcxproj", "{50C2E53F-C08C-42AB-B377-243431FB4B7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50C2E53F-C08C-42AB-B377-243431FB4B7C}.Debug|x64.ActiveCfg = Debug|x64
+		{50C2E53F-C08C-42AB-B377-243431FB4B7C}.Debug|x64.Build.0 = Debug|x64
+		{50C2E53F-C08C-42AB-B377-243431FB4B7C}.Debug|x86.ActiveCfg = Debug|Win32
+		{50C2E53F-C08C-42AB-B377-243431FB4B7C}.Debug|x86.Build.0 = Debug|Win32
+		{50C2E53F-C08C-42AB-B377-243431FB4B7C}.Release|x64.ActiveCfg = Release|x64
+		{50C2E53F-C08C-42AB-B377-243431FB4B7C}.Release|x64.Build.0 = Release|x64
+		{50C2E53F-C08C-42AB-B377-243431FB4B7C}.Release|x86.ActiveCfg = Release|Win32
+		{50C2E53F-C08C-42AB-B377-243431FB4B7C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {060358AC-3116-4CB9-8933-A47D8DE34A90}
+	EndGlobalSection
+EndGlobal

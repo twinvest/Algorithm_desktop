@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\컴퓨터그래픽스 마우스콜백\컴퓨터그래픽스 마우스콜백\소스.c(76): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\taewoo\source\repos\컴퓨터그래픽스 마우스콜백\컴퓨터그래픽스 마우스콜백\소스.c(79): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+c:\users\taewoo\source\repos\컴퓨터그래픽스 마우스콜백\컴퓨터그래픽스 마우스콜백\소스.c(101): warning C4113: 'void (__cdecl *)()'은(는) 'void (__cdecl *)(void)'과(와) 매개 변수 목록이 다릅니다.
+  컴퓨터그래픽스 마우스콜백.vcxproj -> C:\Users\taewoo\source\repos\컴퓨터그래픽스 마우스콜백\Debug\컴퓨터그래픽스 마우스콜백.exe

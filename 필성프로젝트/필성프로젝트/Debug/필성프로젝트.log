@@ -1,0 +1,5 @@
+﻿  소스.cpp
+c:\users\taewoo\source\repos\필성프로젝트\필성프로젝트\소스.cpp(124): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(505): note: 'localtime' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\필성프로젝트\필성프로젝트\소스.cpp(165): warning C4101: 'num' :참조되지 않은 지역 변수입니다.
+  필성프로젝트.vcxproj -> c:\users\taewoo\source\repos\필성프로젝트\Debug\필성프로젝트.exe

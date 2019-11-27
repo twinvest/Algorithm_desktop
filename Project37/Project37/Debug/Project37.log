@@ -1,0 +1,10 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\project37\project37\소스.c(5): warning C4273: '__p__environ': dll 링크가 일치하지 않습니다.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdlib.h(1173): note: '__p__environ'의 이전 정의를 참조하십시오.
+c:\users\taewoo\source\repos\project37\project37\소스.c(11): warning C4013: 'setreuid'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\project37\project37\소스.c(11): warning C4013: 'geteuid'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\project37\project37\소스.c(25): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+소스.obj : error LNK2019: _setreuid 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: _geteuid 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\taewoo\source\repos\Project37\Debug\Project37.exe : fatal error LNK1120: 2개의 확인할 수 없는 외부 참조입니다.

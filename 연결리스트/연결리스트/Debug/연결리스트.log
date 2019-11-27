@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\연결리스트\연결리스트\소스.c(140): warning C4101: 'p' :참조되지 않은 지역 변수입니다.
+  연결리스트.vcxproj -> C:\Users\taewoo\source\repos\연결리스트\Debug\연결리스트.exe

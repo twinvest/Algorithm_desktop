@@ -1,0 +1,11 @@
+﻿  소스2.c
+c:\users\taewoo\source\repos\양과염소\양과염소\소스2.c(4): warning C4013: 'scanf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\양과염소\양과염소\소스2.c(10): warning C4244: '=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+c:\users\taewoo\source\repos\양과염소\양과염소\소스2.c(13): warning C4013: 'printf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  소스.c
+c:\users\taewoo\source\repos\양과염소\양과염소\소스.c(15): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  코드를 생성하고 있습니다...
+c:\users\taewoo\source\repos\양과염소\양과염소\소스2.c(8): warning C4700: 초기화되지 않은 's' 지역 변수를 사용했습니다.
+소스2.obj : error LNK2005: _main이(가) 소스.obj에 이미 정의되어 있습니다.
+C:\Users\taewoo\source\repos\양과염소\Debug\양과염소.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

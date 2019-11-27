@@ -1,0 +1,3 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\시소5번\시소5번\소스.c(12): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  시소5번.vcxproj -> C:\Users\taewoo\source\repos\시소5번\Debug\시소5번.exe

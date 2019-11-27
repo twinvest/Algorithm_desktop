@@ -1,0 +1,7 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\project13\project13\소스.c(38): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\taewoo\source\repos\project13\project13\소스.c(39): warning C4553: '==': 의미 없는 연산자입니다. '='을(를) 사용하려고 했습니까?
+c:\users\taewoo\source\repos\project13\project13\소스.c(11): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\project13\project13\소스.c(6): warning C4101: 'num1' :참조되지 않은 지역 변수입니다.
+  Project13.vcxproj -> C:\Users\taewoo\source\repos\Project13\Debug\Project13.exe

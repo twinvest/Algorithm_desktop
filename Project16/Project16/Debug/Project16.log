@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(937,5): warning MSB8027: 이름이 소스.c인 둘 이상의 파일이 같은 위치에 출력을 생성합니다. 이로 인해 잘못된 빌드 결과가 나타날 수 있습니다.  관련된 파일은 ..\..\Project13\Project13\소스.c, ..\..\Project14\Project14\소스.c, ..\..\Project15\Project15\소스.c, 소스.c입니다.
+  소스.c
+Debug\소스.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+Debug\소스.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+xx.obj : error LNK2005: _main이(가) 소스.obj에 이미 정의되어 있습니다.
+Debug\소스.obj : warning LNK4042: 개체가 두 번 이상 지정되었습니다. 나머지는 무시됩니다.
+C:\Users\taewoo\source\repos\Project16\Debug\Project16.exe : fatal error LNK1169: 여러 번 정의된 기호가 있습니다.

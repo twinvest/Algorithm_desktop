@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\syudy0408-3\syudy0408-3\소스.c(12): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\syudy0408-3\syudy0408-3\소스.c(30): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+  Syudy0408-3.vcxproj -> C:\Users\taewoo\source\repos\Syudy0408-3\Debug\Syudy0408-3.exe

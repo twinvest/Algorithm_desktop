@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\시소4번(텍스트게임)\시소4번(텍스트게임)\소스.c(25): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1272): note: 'scanf' 선언을 참조하십시오.
+c:\users\taewoo\source\repos\시소4번(텍스트게임)\시소4번(텍스트게임)\소스.c(45): warning C4715: 'selectcall': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  시소4번(텍스트게임).vcxproj -> C:\Users\taewoo\source\repos\시소4번(텍스트게임)\Debug\시소4번(텍스트게임).exe

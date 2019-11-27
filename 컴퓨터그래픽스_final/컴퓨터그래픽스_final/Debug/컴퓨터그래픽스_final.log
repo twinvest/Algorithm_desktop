@@ -1,0 +1,2 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\컴퓨터그래픽스_final\컴퓨터그래픽스_final\소스.c(78): error C2065: 'MyTexture': 선언되지 않은 식별자입니다.

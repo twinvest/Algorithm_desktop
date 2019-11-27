@@ -1,0 +1,8 @@
+﻿  소스.cpp
+c:\users\taewoo\source\repos\project66\project66\소스.cpp(45): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taewoo\source\repos\project66\project66\소스.cpp(67): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taewoo\source\repos\project66\project66\소스.cpp(87): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taewoo\source\repos\project66\project66\소스.cpp(117): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taewoo\source\repos\project66\project66\소스.cpp(174): warning C4018: '<': signed 또는 unsigned가 일치하지 않습니다.
+c:\users\taewoo\source\repos\project66\project66\소스.cpp(143): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'std::string'입니다.
+  Project66.vcxproj -> C:\Users\taewoo\source\repos\Project66\Debug\Project66.exe

@@ -1,0 +1,45 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(165): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(166): warning C4047: '초기화 중': 'char'의 간접 참조 수준이 'char *'과(와) 다릅니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(232): warning C4101: 'poket_number' :참조되지 않은 지역 변수입니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(515): warning C4133: '함수': 'Pokemon *'과(와) 'Mymonster *' 사이의 형식이 호환되지 않습니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(535): warning C4133: '함수': 'Pokemon *'과(와) 'Mymonster *' 사이의 형식이 호환되지 않습니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(556): warning C4133: '함수': 'Pokemon *'과(와) 'Mymonster *' 사이의 형식이 호환되지 않습니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(637): error C2232: '->name': 왼쪽 피연산자에 'struct' 형식이 있습니다. '.'를 사용하십시오.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(638): error C2232: '->type': 왼쪽 피연산자에 'struct' 형식이 있습니다. '.'를 사용하십시오.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(639): error C2232: '->hp': 왼쪽 피연산자에 'struct' 형식이 있습니다. '.'를 사용하십시오.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(640): error C2232: '->agress': 왼쪽 피연산자에 'struct' 형식이 있습니다. '.'를 사용하십시오.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(637): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(637): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(637): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(638): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(638): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(638): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(639): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(639): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(639): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(640): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(640): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(640): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(721): error C2440: '초기화 중': 'Mymonster'에서 'Mymonster *'(으)로 변환할 수 없습니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(733): error C2440: '=': 'Mymonster *'에서 'Mymonster'(으)로 변환할 수 없습니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(749): error C2232: '->name': 왼쪽 피연산자에 'struct' 형식이 있습니다. '.'를 사용하십시오.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(750): error C2232: '->type': 왼쪽 피연산자에 'struct' 형식이 있습니다. '.'를 사용하십시오.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(751): error C2232: '->hp': 왼쪽 피연산자에 'struct' 형식이 있습니다. '.'를 사용하십시오.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(752): error C2232: '->agress': 왼쪽 피연산자에 'struct' 형식이 있습니다. '.'를 사용하십시오.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(749): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(749): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(749): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(750): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(750): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(750): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%s'에 필요합니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(751): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(751): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(751): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(752): warning C4473: 'printf': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(752): note: 자리 표시자 및 해당 매개 변수에는 variadic 인수가 2개 필요하지만 1개가 제공되었습니다.
+  c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(752): note: 누락된 variadic 인수 2이(가) 서식 문자열 '%d'에 필요합니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(802): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int'입니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(806): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 3의 형식이 'int'입니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(806): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 4의 형식이 'int'입니다.
+c:\users\taewoo\source\repos\포켓몬스터 최종\포켓몬스터 최종\소스.c(806): warning C4477: 'fscanf' : 서식 문자열 '%d'에 'int *' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'int'입니다.

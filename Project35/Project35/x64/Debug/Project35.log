@@ -1,0 +1,6 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\project35\project35\소스.c(17): warning C4550: 식이 인수 목록이 없는 함수로 계산됩니다.
+c:\users\taewoo\source\repos\project35\project35\소스.c(23): warning C4013: 'glclearcolor'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\project35\project35\소스.c(24): warning C4013: 'glclear'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\project35\project35\소스.c(25): warning C4013: 'glflush'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+LINK : fatal error LNK1104: 'glut32.lib' 파일을 열 수 없습니다.

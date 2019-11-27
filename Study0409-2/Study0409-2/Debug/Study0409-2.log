@@ -1,0 +1,4 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\study0409-2\study0409-2\소스.c(12): warning C4013: 'malloc'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\study0409-2\study0409-2\소스.c(70): warning C4098: 'main': 'void' 함수에서 값을 반환하고 있습니다.
+  Study0409-2.vcxproj -> C:\Users\taewoo\source\repos\Study0409-2\Debug\Study0409-2.exe

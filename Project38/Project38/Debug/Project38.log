@@ -1,0 +1,5 @@
+﻿  소스.c
+c:\users\taewoo\source\repos\project38\project38\소스.c(59): warning C4013: 'getch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\project38\project38\소스.c(60): warning C4013: 'putch'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+c:\users\taewoo\source\repos\project38\project38\소스.c(64): warning C4013: 'strcat'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+  Project38.vcxproj -> C:\Users\taewoo\source\repos\Project38\Debug\Project38.exe

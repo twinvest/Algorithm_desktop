@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\taewoo\source\repos\컴퓨터보안 과제\컴퓨터보안 과제\소스.cpp(13): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\string.h(132): note: 'strcpy' 선언을 참조하십시오.
+  컴퓨터보안 과제.vcxproj -> C:\Users\taewoo\source\repos\컴퓨터보안 과제\Debug\컴퓨터보안 과제.exe

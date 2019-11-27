@@ -1,0 +1,4 @@
+﻿  소스.cpp
+c:\users\taewoo\source\repos\selectionsort(recursion)\selectionsort(recursion)\소스.cpp(31): warning C4715: 'sort': 모든 제어 경로에서 값을 반환하지는 않습니다.
+c:\users\taewoo\source\repos\selectionsort(recursion)\selectionsort(recursion)\소스.cpp(21): warning C4715: 'selection': 모든 제어 경로에서 값을 반환하지는 않습니다.
+  selectionsort(recursion).vcxproj -> C:\Users\taewoo\source\repos\selectionsort(recursion)\Debug\selectionsort(recursion).exe

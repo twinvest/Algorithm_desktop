@@ -1,0 +1,8 @@
+﻿소스.obj : error LNK2019: _input_scores_file 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: _sava_result_file 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: _print_scores 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: _max_score 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: _min_score 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: _sum_scores 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+소스.obj : error LNK2019: _print_result 외부 기호(참조 위치: _main 함수)에서 확인하지 못했습니다.
+C:\Users\taewoo\source\repos\DataStructure-06\Debug\DataStructure-06.exe : fatal error LNK1120: 7개의 확인할 수 없는 외부 참조입니다.

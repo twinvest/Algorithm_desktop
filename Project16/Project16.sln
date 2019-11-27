@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Project16", "Project16\Project16.vcxproj", "{295455D9-9D9A-4381-BDA5-A96D85643568}"
+EndProject
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "Project14", "..\Project14\Debug\Project14.exe", "{5ECE0C45-249B-4C1C-AE66-04F6C2C43449}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = C:\Users\taewoo\source\repos\Project14\Debug\Project14.exe
+		RemoteMachine = DESKTOP-71VUN4Q
+		StartingDirectory = C:\Users\taewoo\source\repos\Project14\Debug
+		Environment = 기본값
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		UseLegacyDebugEngines = No
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{295455D9-9D9A-4381-BDA5-A96D85643568}.Debug|x64.ActiveCfg = Debug|x64
+		{295455D9-9D9A-4381-BDA5-A96D85643568}.Debug|x64.Build.0 = Debug|x64
+		{295455D9-9D9A-4381-BDA5-A96D85643568}.Debug|x86.ActiveCfg = Debug|Win32
+		{295455D9-9D9A-4381-BDA5-A96D85643568}.Debug|x86.Build.0 = Debug|Win32
+		{295455D9-9D9A-4381-BDA5-A96D85643568}.Release|x64.ActiveCfg = Release|x64
+		{295455D9-9D9A-4381-BDA5-A96D85643568}.Release|x64.Build.0 = Release|x64
+		{295455D9-9D9A-4381-BDA5-A96D85643568}.Release|x86.ActiveCfg = Release|Win32
+		{295455D9-9D9A-4381-BDA5-A96D85643568}.Release|x86.Build.0 = Release|Win32
+		{5ECE0C45-249B-4C1C-AE66-04F6C2C43449}.Debug|x64.ActiveCfg = Release|x86
+		{5ECE0C45-249B-4C1C-AE66-04F6C2C43449}.Debug|x86.ActiveCfg = Release|x86
+		{5ECE0C45-249B-4C1C-AE66-04F6C2C43449}.Release|x64.ActiveCfg = Release|x86
+		{5ECE0C45-249B-4C1C-AE66-04F6C2C43449}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774646E8-C8E1-4539-9D1A-A72F9190DF45}
+	EndGlobalSection
+EndGlobal
